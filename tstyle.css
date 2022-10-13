@@ -1,0 +1,86 @@
+.layout{
+    /* border: 1px solid; */
+    width: 1500px;
+    height: 1000px;
+    text-align: center;
+}
+
+
+.r1{
+    /* border: 1px solid; */
+    width: 1500px;
+    height: 700px;
+    background-image: url(travel2.jpg);
+}
+.r2{
+    /* border: 1px solid; */
+    width: 1370px;
+    height: 300px;
+    background-color: #dd9e23;
+    text-align: center;
+    padding-left: 100px;
+}
+.r3{
+    /* border: 1px solid; */
+    width: 1200px;
+    height: 300px;
+    margin: auto;
+    margin-top: -380px;
+
+}
+.r4{
+    /* border: 1px solid; */
+    width:366px ;
+    height: 300px;
+    float: left;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 20px;
+    line-height: 1.1;
+    background-color: white;
+    border-radius: 15px;
+    padding: 5px;
+    
+}
+.r4 p{
+    font-family:'Open Sans',sans-serif; 
+    font-size: 1rem;
+}
+.r5{
+    /* border: 1px solid; */
+    width: 366px;
+    height: 300px;
+    margin: auto;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 20px;
+    line-height: 1.1;
+    background-color: white;
+    border-radius: 15px;
+    padding: 5px;
+
+    
+    
+}
+.r6{
+    /* border: 1px solid; */
+    width: 366px;
+    height: 300px;
+    float: right;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 20px;
+    line-height: 1.1;
+    margin-top: -302px;
+    background-color: white;
+    border-radius: 15px;    
+}
+h2{
+    color:#dd9e23 ;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+h3{
+    color: white;
+    text-align: center;
+    left: 230px;
+    padding: 5px;
+    
+}
